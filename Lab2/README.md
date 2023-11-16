@@ -9,6 +9,6 @@ The code uses functions to handle different aspects of the game, such as display
 
 Code written with the help of:
 
--Antonio Ferrigno s316467 -> [`https://github.com/s316467/Computational-Intelligence-23-24`](https://github.com/s316467/Computational-Intelligence-23-24) 
+- Antonio Ferrigno s316467 -> [`https://github.com/s316467/Computational-Intelligence-23-24`](https://github.com/s316467/Computational-Intelligence-23-24) 
 
--Giulio Figliolino s317510 -> []().
+- Giulio Figliolino s317510 -> []().
